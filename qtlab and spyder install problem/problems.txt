@@ -1,0 +1,32 @@
+useful website:
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygtk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cannot import name path:
+
+pip install -I path.py==7.7.1
+
+
+
+
+DLL load failed: The specified procedure could not be found.
+
+gtk enviorment, use: gtk2-runtime-2.24.10-2012-10-10-ash
+
+
+
+install pycairo
+
+pip install path/to/pycairo-1.10.0-cp27-none-win32.whl

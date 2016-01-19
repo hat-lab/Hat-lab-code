@@ -1,0 +1,4 @@
+empty,empty,0,0,ch1
+sin,test1,100,100,ch1,.5,0,True
+cos,test2,300,100,ch1,.5,0,True
+sin,test1,150,170,ch2,.5,0,True
